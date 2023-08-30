@@ -3,7 +3,7 @@
     "version": "0.0.6",
     "description": "Node-RED nodes to talk to serial ports with RS485/Autoswitch RTS",
     "dependencies": {
-        "serialport": "~4.0.7"
+        "serialport": "~12.0.0"
     },
     "keywords": [
         "node-red",
