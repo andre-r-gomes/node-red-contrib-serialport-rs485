@@ -11,12 +11,12 @@ Install
 
 Run the following command in your Node-RED user directory (typically `~/.node-red`):
 
-        npm i node-red-node-serialport-rs485
+        npm i andre-r-gomes/node-red-node-serialport-rs485
 
 For versions on node.js prior to 4.x (ie v0.10.x and v0.12.x) please install using
 
         sudo npm i -g npm@2.x
-        npm i node-red-node-serialport-rs485
+        npm i andre-r-gomes/node-red-node-serialport-rs485
 
 You may also have to install or upgrade GCC to be version 4.8 or better.
 
